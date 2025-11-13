@@ -7,7 +7,7 @@ This repository contains my final 3D scene project for CS 330. It includes the c
 
 # Repository Contents
 - **CS330_3D_Scene.zip** – Complete C++ OpenGL project  
-- **CS330_Design_Decisions.docx** – Design Decisions document    
+- **OmarObaidi_CS330_FinalProject_Scene_DesignDecisions.docx** – Design Decisions document    
 - **README.md** – Project overview + Module Eight written reflection  
 
 ---
