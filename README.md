@@ -5,19 +5,19 @@ This repository contains my final 3D scene project for CS 330. It includes the c
 
 ---
 
-# 📁 Repository Contents
+# Repository Contents
 - **CS330_3D_Scene.zip** – Complete C++ OpenGL project  
 - **CS330_Design_Decisions.docx** – Design Decisions document    
 - **README.md** – Project overview + Module Eight written reflection  
 
 ---
 
-# 🖼 Project Overview  
+# Project Overview  
 This 3D scene was built from the ground up using modern OpenGL fundamentals. The project includes fully modeled objects, custom transformations, multiple lighting types (ambient, diffuse, and specular), textures, materials, and a freely navigable camera. It reflects careful planning, structured code design, and iterative development across several milestones.
 
 ---
 
-# 📝 Module Eight Reflection  
+# Module Eight Reflection  
 Below are my answers to all Module Eight reflection prompts.
 
 ---
