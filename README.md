@@ -1,7 +1,7 @@
 # CS330 – 3D Scene Portfolio Artifact  
 **CS 330 Computational Graphics and Visualization – Final 3D Scene Portfolio Submission**
 
-This repository contains my final 3D scene project for CS 330. It includes the complete ZIP file for the full project, the Design Decisions document, screenshots of the final scene, and my written reflection required for Module Eight. This work demonstrates my ability to design, develop, and implement a fully realized 3D scene using OpenGL, transformations, lighting, and custom object construction.
+This repository contains my final 3D scene project for CS 330. It includes the complete ZIP file for the full project, the Design Decisions document, and my written reflection required for Module Eight. This work demonstrates my ability to design, develop, and implement a fully realized 3D scene using OpenGL, transformations, lighting, and custom object construction.
 
 ---
 
